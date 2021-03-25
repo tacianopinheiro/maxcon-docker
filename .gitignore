@@ -1,0 +1,16 @@
+.vagrant/bundler/global.sol
+.vagrant/machines/docker/vmware_esxi/vagrant_cwd
+.vagrant/machines/dockervm/vmware_esxi/creator_uid
+.vagrant/machines/dockervm/vmware_esxi/id
+.vagrant/machines/dockervm/vmware_esxi/index_uuid
+.vagrant/machines/dockervm/vmware_esxi/vagrant_cwd
+.vagrant/machines/ubuntu-docker/virtualbox/action_set_name
+.vagrant/machines/ubuntu-docker/virtualbox/box_meta
+.vagrant/machines/ubuntu-docker/virtualbox/creator_uid
+.vagrant/machines/ubuntu-docker/virtualbox/id
+.vagrant/machines/ubuntu-docker/virtualbox/index_uuid
+.vagrant/machines/ubuntu-docker/virtualbox/vagrant_cwd
+.vagrant/machines/ubuntu-docker/vmware_esxi/vagrant_cwd
+.vagrant/rgloader/loader.rb
+key
+configs/key.pub
